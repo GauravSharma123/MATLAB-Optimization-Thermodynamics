@@ -57,3 +57,5 @@ The implementation includes:
 
 ## Contact
 For questions about the implementation or collaboration opportunities, please open an issue in the repository.
+
+DOI: 10.5281/zenodo.14643116
